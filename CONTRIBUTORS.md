@@ -30,7 +30,7 @@
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
-- Bio: I like to code
+- Bio: I am 3rd year, B.Tech cse student. 
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
 #### Name: [APOORVA SHARMA](https://github.com/okatticus)
